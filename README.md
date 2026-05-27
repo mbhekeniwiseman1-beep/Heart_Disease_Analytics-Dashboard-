@@ -167,6 +167,3 @@ This dashboard can help:
 
 ---
 
-# Author
-
-Samiksha Pawar
